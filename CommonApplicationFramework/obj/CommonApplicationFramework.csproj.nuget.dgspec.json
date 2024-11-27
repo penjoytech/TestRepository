@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpace\\Office\\Pentechs\\QumaOne\\Common Application Framework\\Test core\\CommonApplicationFramework\\CommonApplicationFramework.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpace\\Office\\Pentechs\\QumaOne\\Common Application Framework\\Test core\\CommonApplicationFramework\\CommonApplicationFramework.csproj": {
+      "version": "1.0.7",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\Office\\Pentechs\\QumaOne\\Common Application Framework\\Test core\\CommonApplicationFramework\\CommonApplicationFramework.csproj",
+        "projectName": "CommonApplicationFramework",
+        "projectPath": "D:\\WorkSpace\\Office\\Pentechs\\QumaOne\\Common Application Framework\\Test core\\CommonApplicationFramework\\CommonApplicationFramework.csproj",
+        "packagesPath": "C:\\Users\\joyba\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\Office\\Pentechs\\QumaOne\\Common Application Framework\\Test core\\CommonApplicationFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joyba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/PeninsulaGroup/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Owin": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.96, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Diagnostics.EventLog": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

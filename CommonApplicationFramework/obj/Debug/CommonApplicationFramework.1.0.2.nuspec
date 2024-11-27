@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CommonApplicationFramework</id>
+    <version>1.0.2</version>
+    <authors>Pentechs.CommonApplicationFramework</authors>
+    <projectUrl>https://github.com/PeninsulaGroup/CommonApplicationFrameWork_Core</projectUrl>
+    <description>A common application framework for .net application</description>
+    <copyright>This project is copyright</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Owin" version="3.1.32" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.FileExtensions" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.6.96" exclude="Build,Analyzers" />
+        <dependency id="System.Data.DataSetExtensions" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.Odbc" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.OleDb" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.EventLog" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll" target="lib\net6.0\CommonApplicationFramework.dll" />
+  </files>
+</package>

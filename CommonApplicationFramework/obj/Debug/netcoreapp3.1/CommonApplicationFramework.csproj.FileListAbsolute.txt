@@ -1,0 +1,16 @@
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\CommonApplicationFramework.dll.config
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\CommonApplicationFramework.deps.json
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.xml
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\netcoreapp3.1\System.Web.Http.xml
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.csproj.AssemblyReference.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.AssemblyInfoInputs.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.AssemblyInfo.cs
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.csproj.CopyComplete
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\netcoreapp3.1\CommonApplicationFramework.pdb

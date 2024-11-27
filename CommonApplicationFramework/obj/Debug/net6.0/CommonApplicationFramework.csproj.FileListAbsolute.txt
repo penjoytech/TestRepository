@@ -1,0 +1,91 @@
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll.config
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.deps.json
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.xml
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.xml
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.AssemblyReference.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfoInputs.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfo.cs
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CopyComplete
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\refint\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\VPT\API\CommonApplicationFramework\CommonApplicationFramework\obj\Debug\net6.0\ref\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll.config
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.deps.json
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.xml
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.xml
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.AssemblyReference.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfoInputs.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfo.cs
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CopyComplete
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\refint\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\VPT\API\CAF\CommonApplicationFramework\obj\Debug\net6.0\ref\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll.config
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.deps.json
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.dll
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.xml
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.xml
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.AssemblyReference.cache
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfoInputs.cache
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfo.cs
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CopyComplete
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\refint\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\CAF_Core\CommonApplicationFramework\obj\Debug\net6.0\ref\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll.config
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.deps.json
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.xml
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.xml
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.AssemblyReference.cache
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfoInputs.cache
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfo.cs
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CopyComplete
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\refint\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\.net Core\CommonApplicationFramework\obj\Debug\net6.0\ref\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll.config
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.deps.json
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\System.Net.Http.Formatting.xml
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\System.Web.Http.xml
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.AssemblyReference.cache
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfoInputs.cache
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.AssemblyInfo.cs
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.csproj.CopyComplete
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\refint\CommonApplicationFramework.dll
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\CommonApplicationFramework.pdb
+D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\obj\Debug\net6.0\ref\CommonApplicationFramework.dll

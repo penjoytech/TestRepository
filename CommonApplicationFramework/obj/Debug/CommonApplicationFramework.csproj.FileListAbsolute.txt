@@ -1,0 +1,18 @@
+E:\SVN\Packages\CAF 1.0.0.1\CommonApplicationFramework.dll
+E:\SVN\Packages\CAF 1.0.0.1\CommonApplicationFramework.pdb
+E:\SVN\CAF\obj\Debug\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+E:\SVN\CAF\obj\Debug\CommonApplicationFramework.csproj.CopyComplete
+E:\SVN\CAF\obj\Debug\CommonApplicationFramework.dll
+E:\SVN\CAF\obj\Debug\CommonApplicationFramework.pdb
+G:\WIP\GitHub\CAF\obj\Debug\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+G:\WIP\GitHub\CAF\obj\Debug\CommonApplicationFramework.csproj.CopyComplete
+G:\WIP\GitHub\CAF\obj\Debug\CommonApplicationFramework.dll
+G:\WIP\GitHub\CAF\obj\Debug\CommonApplicationFramework.pdb
+G:\WIP\GitHub\Packages\CAF 1.0.0.1\CommonApplicationFramework.dll.config
+G:\WIP\GitHub\Packages\CAF 1.0.0.1\CommonApplicationFramework.dll
+G:\WIP\GitHub\Packages\CAF 1.0.0.1\CommonApplicationFramework.pdb
+G:\WIP\GitHub\CommonApplicaitonFramework\obj\Debug\CommonApplicationFramework.csproj.CoreCompileInputs.cache
+G:\WIP\GitHub\CommonApplicaitonFramework\obj\Debug\CommonApplicationFramework.csproj.CopyComplete
+G:\WIP\GitHub\CommonApplicaitonFramework\obj\Debug\CommonApplicationFramework.dll
+G:\WIP\GitHub\CommonApplicaitonFramework\obj\Debug\CommonApplicationFramework.pdb
+G:\WIP\GitHub\CommonApplicaitonFramework\obj\Debug\CommonApplicationFramework.csprojAssemblyReference.cache

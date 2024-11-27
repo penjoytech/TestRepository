@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CommonApplicationFramework</id>
+    <version>1.0.7</version>
+    <authors>Pentechs.CommonApplicationFramework</authors>
+    <projectUrl>https://github.com/PeninsulaGroup/CAF_Core</projectUrl>
+    <description>A common application framework for .net application for interneal usage.
+This is a private package hence user need to be authenticated to download and install the package.
+To authorize user must have access to the git repository, if not user need to inform to the administrator of gain access to the repository.
+While install user will be asked to provide git credentials , the username will be git user name and password will be PAT token (classic) in git , which can be created Setting/Developer Settings in git.
+Report to Joy incase any issue.</description>
+    <copyright>This project is copyright</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Owin" version="3.1.32" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.FileExtensions" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.6.96" exclude="Build,Analyzers" />
+        <dependency id="System.Data.DataSetExtensions" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.Odbc" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.OleDb" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.EventLog" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkSpace\Office\Pentechs\QumaOne\Common Application Framework\Test core\CommonApplicationFramework\bin\Debug\net6.0\CommonApplicationFramework.dll" target="lib\net6.0\CommonApplicationFramework.dll" />
+  </files>
+</package>
